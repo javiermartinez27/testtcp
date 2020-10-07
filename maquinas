@@ -1,0 +1,21 @@
+a la u: 
+	ssh javier.martinez@ssh2.inf.utfsm.cl
+
+maquinas:
+	ssh sd@wea
+
+Máquina 1
+ip/hostname:10.10.28.154       PROTOC (gRPC)
+contraseña:nINyTkfDzABKaLi
+
+Máquina 2
+ip/hostname:10.10.28.155	PROTOC (gRPC)
+contraseña:dkCvLADdnIpVklQ
+
+Máquina 3
+ip/hostname:10.10.28.156
+contraseña:itKmkpZLJvFWBxe
+
+Máquina 4
+ip/hostname:10.10.28.157
+contraseña:eWcnJhUEnnKocoO
